@@ -13,6 +13,7 @@
 		A417FAED1D86F7BA00DA64E2 /* Mellon_Mindfulness_Companion.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A417FAEB1D86F7BA00DA64E2 /* Mellon_Mindfulness_Companion.xcdatamodeld */; };
 		A417FAEF1D86F7BA00DA64E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A417FAEE1D86F7BA00DA64E2 /* Assets.xcassets */; };
 		A417FAF21D86F7BA00DA64E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A417FAF01D86F7BA00DA64E2 /* LaunchScreen.storyboard */; };
+		A417FAFA1D86F96900DA64E2 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = A417FAF91D86F96900DA64E2 /* Secrets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A417FAEE1D86F7BA00DA64E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A417FAF11D86F7BA00DA64E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A417FAF31D86F7BA00DA64E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A417FAF91D86F96900DA64E2 /* Secrets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				A417FAE41D86F7BA00DA64E2 /* AppDelegate.swift */,
+				A417FAF91D86F96900DA64E2 /* Secrets.swift */,
 				A417FAE61D86F7BA00DA64E2 /* ViewController.swift */,
 				A417FAE81D86F7BA00DA64E2 /* Main.storyboard */,
 				A417FAEE1D86F7BA00DA64E2 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A417FAE71D86F7BA00DA64E2 /* ViewController.swift in Sources */,
+				A417FAFA1D86F96900DA64E2 /* Secrets.swift in Sources */,
 				A417FAE51D86F7BA00DA64E2 /* AppDelegate.swift in Sources */,
 				A417FAED1D86F7BA00DA64E2 /* Mellon_Mindfulness_Companion.xcdatamodeld in Sources */,
 			);
