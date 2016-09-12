@@ -308,6 +308,7 @@
 				A417FAF81D86F7BA00DA64E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
